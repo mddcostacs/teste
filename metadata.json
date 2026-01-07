@@ -1,0 +1,7 @@
+{
+  "name": "Boleto Organizer Pro",
+  "description": "Um sistema elegante e inteligente para organizar seus boletos. Faça upload do PDF e deixe a IA extrair automaticamente o valor e a data de vencimento, com visual inspirado no Microsoft To-Do.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

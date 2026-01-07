@@ -1,0 +1,17 @@
+
+{
+  "name": "Boleto Organizer Pro",
+  "short_name": "Meus Boletos",
+  "description": "Organizador inteligente de boletos com IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2372/2372221.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
